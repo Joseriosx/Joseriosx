@@ -1,10 +1,5 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
-</div>
 
-###
-
-<h1 align="center">Olá Mundo 👋, meu nome é José. <br>Sejam Bem-Vindos.</h1>
+<img width="1920" height="720" alt="pac man github" src="https://github.com/user-attachments/assets/555494ae-3c64-443e-8375-50e1be6d2e4d" />
 
 ###
 
@@ -36,23 +31,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Joserios&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   
   ![I can’t belive I just lost the game  Buaaaa](https://github.com/user-attachments/assets/ad53067d-f563-47ad-b0de-bdc67a3a0f9e)
 
 </div>
-
-###
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
-</div>
-
-###
